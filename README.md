@@ -46,11 +46,15 @@ Welcome to My JavaScript Utility Functions Library! This repository contains a c
 To use this library in your project, you can clone this repository locally:
 
 ``bash
+```
 git clone https://github.com/eaysin-arafat/js-utility.git
+```
 
 Alternatively, you can fork this repository to your own GitHub account and then clone it:
 ``bash
+```
 git clone https://github.com/yourusername/your-forked-repository.git
+```
 
 ## Usage
 Once you have the repository cloned or forked, you can simply import the utility functions you need into your project files. For example:
@@ -79,6 +83,7 @@ console.log(diff); // Output: [{ a: 1 }]
 ## Available Functions
 
 Array Functions
+```
 -head(array): Returns the first element of an array.
 -indexOf(array, value): Returns the index of the first occurrence of a value in an array.
 initialize(array, value): Initializes an array with the specified value.
@@ -86,22 +91,29 @@ intersection(array1, array2): Returns the intersection of two arrays.
 intersectionByIndex(array1, array2): Returns the index-based intersection of two arrays.
 join(array, separator): Joins the elements of an array into a string using a specified separator.
 ... (list other array functions)
+```
 Object Functions
+```
 differenceBy(object, values, iteratee): Creates an array of object values not included in the other given arrays, using a comparator function.
 sortedLastIndexBy(array, value, iteratee): This method is like sortedLastIndex except that it accepts iteratee which is invoked for value and each element of array to compute their sort ranking.
 takeRightWhile(array, predicate): Creates a slice of array with elements taken from the end until predicate returns falsey.
 ... (list other object functions)
+```
 String Functions
+```
 capitalize(string): Capitalizes the first character of a string.
 endsWith(string, target): Checks if a string ends with the given target string.
 lowerCase(string): Converts a string to lowercase.
 ... (list other string functions)
+```
 Math Functions
+```
 add(a, b): Adds two numbers.
 subtract(a, b): Subtracts one number from another.
 multiply(a, b): Multiplies two numbers.
 ... (list other math functions)
 And More...
+```
 This library contains many more utility functions covering a wide range of tasks. Feel free to explore the source code to discover additional functions that may be useful in your projects.
 
 ## License
