@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <h3 align="right">Js Utility</h3>
+  <h3 align="left">Js Utility</h3>
 </p>
 
 
