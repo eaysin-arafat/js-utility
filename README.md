@@ -24,11 +24,11 @@ This repository serves as a collection of JavaScript utility functions that I've
 
 To use this library in your project, you can clone this repository locally:
 
-```bash
+``bash
 git clone https://github.com/eaysin-arafat/js-utility.git
 
 Alternatively, you can fork this repository to your own GitHub account and then clone it:
-bash
+``bash
 git clone https://github.com/yourusername/your-forked-repository.git
 
 ##Usage
