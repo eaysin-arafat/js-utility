@@ -79,8 +79,8 @@ console.log(diff); // Output: [{ a: 1 }]
 ## Available Functions
 
 Array Functions
-head(array): Returns the first element of an array.
-indexOf(array, value): Returns the index of the first occurrence of a value in an array.
+-head(array): Returns the first element of an array.
+-indexOf(array, value): Returns the index of the first occurrence of a value in an array.
 initialize(array, value): Initializes an array with the specified value.
 intersection(array1, array2): Returns the intersection of two arrays.
 intersectionByIndex(array1, array2): Returns the index-based intersection of two arrays.
