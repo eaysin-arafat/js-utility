@@ -1,26 +1,47 @@
-# My JavaScript Utility Functions Library
+
+
+<br/>
+<p align="center">
+  <h3 align="center">Js Utility</h3>
+
+  <p align="center">
+    A collection of utility functions to simplify JavaScript development.
+    <br/>
+    <br/>
+    <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/ShaanCoding/ReadME-Generator">View Demo</a>
+    .
+    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
+    .
+    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
+  </p>
+</p>
+
+
+Welcome to My JavaScript Utility Functions Library! This repository contains a collection of utility functions organized into modules for common tasks in JavaScript. Whether you're working on a small project or a large-scale application, these functions can help streamline your development process.
+## Table Of Contents
+
+* [Introduction](#Introduction)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributing](#Contributing)
+* [Available Functions](#AvailableFunctions)
+  * [Array Functions](#array-functions)
+  * [Object Functions](#object-functions)
+  * [String Functions](#string-functions)
+  * [Math Functions](#math-functions)
+  * [And More...](#and-more)
+* [License](#License)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
 
 Welcome to My JavaScript Utility Functions Library! This repository contains a collection of utility functions organized into modules for common tasks in JavaScript. Whether you're working on a small project or a large-scale application, these functions can help streamline your development process.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Available Functions](#available-functions)
-  - [Array Functions](#array-functions)
-  - [Object Functions](#object-functions)
-  - [String Functions](#string-functions)
-  - [Math Functions](#math-functions)
-  - [And More...](#and-more)
-- [License](#license)
-
-## Introduction
-
-This repository serves as a collection of JavaScript utility functions that I've found useful in my projects. These functions are organized into modules based on their functionality, making it easy to find and use the ones you need.
-
-## Installation
+## Getting Started
 
 To use this library in your project, you can clone this repository locally:
 
@@ -31,7 +52,7 @@ Alternatively, you can fork this repository to your own GitHub account and then 
 ``bash
 git clone https://github.com/yourusername/your-forked-repository.git
 
-##Usage
+## Usage
 Once you have the repository cloned or forked, you can simply import the utility functions you need into your project files. For example:
 
 javascript
@@ -48,11 +69,14 @@ const obj2 = { b: 3, c: 4 };
 const diff = utils.differenceBy(obj1, [obj2], 'b');
 console.log(diff); // Output: [{ a: 1 }]
 
-##Contributing
+## Contributing
 
-Contributions are welcome! If you have any utility functions you'd like to add or improve, please feel free to submit a pull request. Make sure to follow the existing coding style and conventions, and include relevant tests and documentation for any new functions.
+* Contributions are welcome! If you have any utility functions you'd like to add or improve, please feel free to [open an issue](https://github.com/ShaanCoding/ReadME-Generator/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes. Make sure to follow the existing coding style and conventions, and include relevant tests and documentation for any new functions.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShaanCoding/ReadME-Generator/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
 
-##Available Functions
+## Available Functions
 
 Array Functions
 head(array): Returns the first element of an array.
@@ -80,11 +104,10 @@ multiply(a, b): Multiplies two numbers.
 And More...
 This library contains many more utility functions covering a wide range of tasks. Feel free to explore the source code to discover additional functions that may be useful in your projects.
 
-
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
 Replace placeholders like `yourusername`, `your-repository`, and `your-forked-repository` with your actual GitHub username and repository names. This README provides detailed instructions on installation, usage, available functions, contributing guidelines, and license information for your repository.
+
 
