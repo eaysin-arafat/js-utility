@@ -49,9 +49,11 @@ const diff = utils.differenceBy(obj1, [obj2], 'b');
 console.log(diff); // Output: [{ a: 1 }]
 
 ##Contributing
+
 Contributions are welcome! If you have any utility functions you'd like to add or improve, please feel free to submit a pull request. Make sure to follow the existing coding style and conventions, and include relevant tests and documentation for any new functions.
 
 ##Available Functions
+
 Array Functions
 head(array): Returns the first element of an array.
 indexOf(array, value): Returns the index of the first occurrence of a value in an array.
@@ -80,6 +82,7 @@ This library contains many more utility functions covering a wide range of tasks
 
 
 ##License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
