@@ -1,0 +1,9 @@
+{
+  "name": "js-utility",
+  "version": "1.0.0",
+  "description": "JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm",
+  "main": "index.js",
+  "repository": "https://github.com/eaysin-arafat/like-lodash.git",
+  "author": "eaysin-arafat",
+  "license": "MIT"
+}
