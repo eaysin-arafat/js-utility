@@ -2,21 +2,7 @@
 
 <br/>
 <p align="center">
-  <h3 align="center">Js Utility</h3>
-
-  <p align="center">
-    A collection of utility functions to simplify JavaScript development.
-    <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator">View Demo</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
-    .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
-  </p>
+  <h3 align="right">Js Utility</h3>
 </p>
 
 
@@ -75,8 +61,8 @@ console.log(diff); // Output: [{ a: 1 }]
 
 ## Contributing
 
-* Contributions are welcome! If you have any utility functions you'd like to add or improve, please feel free to [open an issue](https://github.com/ShaanCoding/ReadME-Generator/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes. Make sure to follow the existing coding style and conventions, and include relevant tests and documentation for any new functions.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShaanCoding/ReadME-Generator/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Contributions are welcome! If you have any utility functions you'd like to add or improve, please feel free to [open an issue](https://github.com/eaysin-arafat/js-utility/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes. Make sure to follow the existing coding style and conventions, and include relevant tests and documentation for any new functions.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/eaysin-arafat/js-utility/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
 
