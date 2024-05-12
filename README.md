@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
   <h1 align="left">Js Utility</h2>
 </p>
